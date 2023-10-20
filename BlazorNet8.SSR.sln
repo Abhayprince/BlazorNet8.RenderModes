@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34212.112
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorNet8.SSR", "BlazorNet8.SSR\BlazorNet8.SSR.csproj", "{6122D37E-126B-4DCC-A2EA-E28BA170CA51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorNet8.IntercativeServer", "BlazorNet8.IntercativeServer\BlazorNet8.IntercativeServer.csproj", "{DD4ABB13-EB20-4597-864F-BE76DAC967C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorNet8.InteractiveWASM", "BlazorNet8.InteractiveWASM\BlazorNet8.InteractiveWASM\BlazorNet8.InteractiveWASM.csproj", "{0E37D030-825E-47E0-B5EB-8697DCE9E006}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorNet8.InteractiveWASM.Client", "BlazorNet8.InteractiveWASM\BlazorNet8.InteractiveWASM.Client\BlazorNet8.InteractiveWASM.Client.csproj", "{FF70ACA9-A542-41B2-AEE0-C85B2BF54FAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorNet8.InteractiveAuto", "BlazorNet8.InteractiveAuto\BlazorNet8.InteractiveAuto\BlazorNet8.InteractiveAuto.csproj", "{ECF68A8E-AF28-4E63-B150-2F73FFEB5D4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorNet8.InteractiveAuto.Client", "BlazorNet8.InteractiveAuto\BlazorNet8.InteractiveAuto.Client\BlazorNet8.InteractiveAuto.Client.csproj", "{C0254CD9-8AF4-4FCF-AB89-4B7594DA4D32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6122D37E-126B-4DCC-A2EA-E28BA170CA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6122D37E-126B-4DCC-A2EA-E28BA170CA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6122D37E-126B-4DCC-A2EA-E28BA170CA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6122D37E-126B-4DCC-A2EA-E28BA170CA51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD4ABB13-EB20-4597-864F-BE76DAC967C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD4ABB13-EB20-4597-864F-BE76DAC967C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD4ABB13-EB20-4597-864F-BE76DAC967C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD4ABB13-EB20-4597-864F-BE76DAC967C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E37D030-825E-47E0-B5EB-8697DCE9E006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E37D030-825E-47E0-B5EB-8697DCE9E006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E37D030-825E-47E0-B5EB-8697DCE9E006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E37D030-825E-47E0-B5EB-8697DCE9E006}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF70ACA9-A542-41B2-AEE0-C85B2BF54FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF70ACA9-A542-41B2-AEE0-C85B2BF54FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF70ACA9-A542-41B2-AEE0-C85B2BF54FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF70ACA9-A542-41B2-AEE0-C85B2BF54FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECF68A8E-AF28-4E63-B150-2F73FFEB5D4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF68A8E-AF28-4E63-B150-2F73FFEB5D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF68A8E-AF28-4E63-B150-2F73FFEB5D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF68A8E-AF28-4E63-B150-2F73FFEB5D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0254CD9-8AF4-4FCF-AB89-4B7594DA4D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0254CD9-8AF4-4FCF-AB89-4B7594DA4D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0254CD9-8AF4-4FCF-AB89-4B7594DA4D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0254CD9-8AF4-4FCF-AB89-4B7594DA4D32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76ACE84D-6A33-4241-A48A-190849E3C264}
+	EndGlobalSection
+EndGlobal
